@@ -1,0 +1,16 @@
+Loại câu hỏi,Metric,Flat RAG,GraphRAG,Nhận xét phân tích
+cross-doc,Comprehensiveness,3.636,3.773,Hai phương pháp gần nhau.
+cross-doc,Faithfulness,4.091,4.364,Hai phương pháp gần nhau.
+cross-doc,Multi-hop reasoning,3.636,3.773,Hai phương pháp gần nhau.
+cross-doc,Latency (s),1.891,1.698,GraphRAG không đắt hơn trong sample này.
+cross-doc,Token usage,746.364,587.182,GraphRAG không đắt hơn trong sample này.
+factoid,Comprehensiveness,3.4,3.2,Hai phương pháp gần nhau.
+factoid,Faithfulness,3.4,3.4,Hai phương pháp gần nhau.
+factoid,Multi-hop reasoning,3.4,3.2,Hai phương pháp gần nhau.
+factoid,Latency (s),1.552,1.203,GraphRAG không đắt hơn trong sample này.
+factoid,Token usage,645.0,502.8,GraphRAG không đắt hơn trong sample này.
+multi-hop,Comprehensiveness,3.522,3.174,Hai phương pháp gần nhau.
+multi-hop,Faithfulness,3.696,3.609,Hai phương pháp gần nhau.
+multi-hop,Multi-hop reasoning,3.522,3.217,Hai phương pháp gần nhau.
+multi-hop,Latency (s),2.158,2.075,GraphRAG không đắt hơn trong sample này.
+multi-hop,Token usage,789.435,621.0,GraphRAG không đắt hơn trong sample này.

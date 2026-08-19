@@ -21,6 +21,7 @@ env/
 *.csv
 golden_dataset.csv
 !reports/*.csv
+!outputs/*.csv
 *.jsonl
 *.parquet
 *.pq
@@ -28,3 +29,5 @@ golden_dataset.csv
 # OS files
 .DS_Store
 Thumbs.db
+
+*.xlsx
